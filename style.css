@@ -286,3 +286,15 @@ p{
 .v78{
     border-radius: 10px;
 }
+
+
+.v13{
+    border: solid black 2px;
+    width:250px;
+    margin: auto;
+}
+
+p{
+    font-family: sans-serif;
+    font-style: italic;
+}

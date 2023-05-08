@@ -263,7 +263,8 @@ footer{
 .cont1{
 border: #000 solid;
 width: 500px;
-background-color: whitesmoke;
+background-color: gray;
+
 
 }
 
@@ -292,9 +293,14 @@ p{
     border: solid black 2px;
     width:250px;
     margin: auto;
+
 }
 
 p{
     font-family: sans-serif;
     font-style: italic;
+}
+
+.yntaniq{
+    display: flex;
 }
